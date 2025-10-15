@@ -3,12 +3,15 @@ R: As operações acima mencionadas são de extrema importância pois elas serã
 
  A Womakerscode (2023), define o Commit, como um grupo de alterações no código, contendo as alterações que foram feitas nele e uma mensagem descritiva, além de informações meta (data, autor, etc).
 
- A Womakerscode (2023), define o Push como um comando usado para enviar dados para o repositório remoto
- A Womakerscode (2023), define o Pop como um comando que irá estaurar alterações salvas temporariamente e removê-las da área de armazenamento.
+ A Womakerscode (2023), define o Push como um comando usado para enviar dados para o repositório remoto.
+ A Womakerscode (2023), define o Pop como um comando que irá restaurar alterações salvas temporariamente e removê-las da área de armazenamento.
 
 2 – Quais são as vantagens de usar Branchs num repositório git? 
-R: De acordo a Womakerscode (2023), na sua definição em que Branches são separações de código e que estes normalmente são utilizados para separar alterações grandes ou novas funcionalidades do projeto, sendo assim essa funcionalidade  cria múltiplas vantagens para quem tem um grande projeto em produção, proporcionando segurança, estabilidade e uma maior abertura na implementação de novas funcionalidade e ou outros serviços sem comprometer o código principal, ou seja ele cria ramificações do main code.
+R: De acordo a Womakerscode (2023), na sua definição diz que Branches são separações de código e que estes normalmente são utilizados para separar alterações grandes ou novas funcionalidades de um projeto, sendo assim essa funcionalidade  cria múltiplas vantagens para quem tem um grande projeto em produção, proporcionando segurança, estabilidade e uma maior abertura na implementação de novas funcionalidade e ou outros serviços sem comprometer o código principal, ou seja ele cria ramificações do main code.
 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em que consistem e como podem ser resolvidos esses conflitos?
+R: De acordo ao GitHub Docs , os merges resultantes de um Pop podem causar conflitos que consistem em conflitos de conteúdo ou de arquivo, para resolução desses conflitos podemos recorrrer a uma avaliação de cada ficheiro onde o Git irá previamente identificar as diferenças, escolher como lidar com as diferenças para posterior proceder com um merge sem erros
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as diferenças entre eles? 
+
+
