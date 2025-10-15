@@ -14,4 +14,5 @@ R: De acordo ao GitHub Docs , os merges resultantes de um Pop podem causar confl
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as diferenças entre eles? 
 
+R:  De acordo com a Womakerscode (2023), Um clone de um repositório funciona como uma branch de um repositório online em um repositório local. Ou seja, quando se deseja trabalhar em um repositório hospedado no github, clona-se esse repositório para o seu computador, trabalha-se nele, e então é pedida a permissão para atualizar as alterações online. já o Fork  é como um clone, porém dentro do github. Isso quer dizer que o repositório não vai ser baixado para seu computador, mas será criado um igual na sua conta.
 
