@@ -1,11 +1,14 @@
 1 - O que são operações de “Commit”, “Push” e “Pop” efetuadas num repositório? 
-R: As operações acima mencionadas são de extrema importância pois elas serão usadas para o manuseios dos fiecheiros  submeter no GitHub.  
+R: As operações acima mencionadas são de extrema importância pois elas serão usadas para o manuseio dos ficheiros a serem  submetidos no GitHub.  
 
- A Womakerscode (s.d.), define o Commit, como um grupo de alterações no código, contendo as alterações que foram feitas nele e uma mensagem descritiva, além de informações meta (data, autor, etc).
+ A Womakerscode (2023), define o Commit, como um grupo de alterações no código, contendo as alterações que foram feitas nele e uma mensagem descritiva, além de informações meta (data, autor, etc).
 
- A Womakerscode (s.d.), define o Push como um comando usado para enviar dados para o repositório remoto
- A Womakerscode (s.d.), define o Pop como um comando que irá estaurar alterações salvas temporariamente e removê-las da área de armazenamento.
+ A Womakerscode (2023), define o Push como um comando usado para enviar dados para o repositório remoto
+ A Womakerscode (2023), define o Pop como um comando que irá estaurar alterações salvas temporariamente e removê-las da área de armazenamento.
 
-2 – Quais sáo as vantagens de usar Branchs num repositório git? 
+2 – Quais são as vantagens de usar Branchs num repositório git? 
+R: De acordo a Womakerscode (2023), na sua definição em que Branches são separações de código e que estes normalmente são utilizados para separar alterações grandes ou novas funcionalidades do projeto, sendo assim essa funcionalidade  cria múltiplas vantagens para quem tem um grande projeto em produção, proporcionando segurança, estabilidade e uma maior abertura na implementação de novas funcionalidade e ou outros serviços sem comprometer o código principal, ou seja ele cria ramificações do main code.
+
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em que consistem e como podem ser resolvidos esses conflitos?
- 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as diferenças entre eles? 
+
+4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as diferenças entre eles? 
